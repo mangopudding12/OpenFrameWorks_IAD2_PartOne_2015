@@ -25,6 +25,8 @@
 *.suo
 *.ilk
 *.lib
+*.lastbuildstate
+*.gitkeep
 
 # Compiled source #
 ###################
